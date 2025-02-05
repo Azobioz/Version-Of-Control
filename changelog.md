@@ -1,3 +1,3 @@
-# 1.0.0 
+# 1.1.0 
 
-* added changelog.md 
+* added Calculator.java
