@@ -13,3 +13,7 @@ Azobioz
 - [Changelog](./changelog.md)
 - [Installation](./install.md)
 - [Cheatsheet](./cheatsheet.md)
+
+# Network Graph
+
+![f](https://i.ibb.co/kVQ58fBF/Screenshot-7.png)
