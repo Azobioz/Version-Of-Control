@@ -16,4 +16,4 @@ Azobioz
 
 # Network Graph
 
-![f](https://i.ibb.co/kVQ58fBF/Screenshot-7.png)
+![f](https://i.ibb.co/zYvny4M/Screenshot-8.png)
